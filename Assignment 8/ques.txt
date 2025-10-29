@@ -1,0 +1,16 @@
+1. Write program using functions for binary tree traversals: Pre-order, In-order and Post-
+order using recursive approach.
+
+2. Implement following functions for Binary Search Trees
+(a) Search a given item (Recursive & Non-Recursive)
+(b) Maximum element of the BST
+(c) Minimum element of the BST
+(d) In-order successor of a given node the BST
+(e) In-order predecessor of a given node the BST
+3. Write a program for binary search tree (BST) having functions for the following
+operations:
+(a) Insert an element (no duplicates are allowed),
+(b) Delete an existing element,
+(c) Maximum depth of BST
+(d) Minimum depth of
+4. Write a program to determine whether a given binary tree is a BST or not.
