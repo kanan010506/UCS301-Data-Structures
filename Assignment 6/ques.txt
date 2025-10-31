@@ -1,0 +1,14 @@
+1. Develop a menu driven program for the following operations of on a Circular as well as a Doubly  Linked List.
+  (a) Insertion anywhere in the linked list (As a first node, as a last node, and after/before a specific node).
+  (b) Deletion of a specific node, say 'Delete Node 60'. That mean the node to be deleted may appear as a head node, last node or a node in between.
+  (c) Search for a node.
+
+2. Display all the node values in a circular linked list, repeating value of head node at the end too. For example, if elements present in the circular linked list starting from head are 20 → 100 → 40 → 80 → 60, then output should be displayed as 20 100 40 80 60 20.
+
+3. Write a program to find size of
+i. Doubly Linked List.
+ii. Circular Linked List.
+
+4. Write a program to check if a doubly linked list of characters is palindrome or not.
+
+5. Write a program to check if a linked list is Circular Linked List or not.
